@@ -11,7 +11,7 @@ int main() {
         printf("hello\n";)
       } else {
         printf("The number is odd\n");
-        printf("hi\n";)   
+        printf("hi\n");   
  }
     
     return 0;
