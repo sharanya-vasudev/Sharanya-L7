@@ -1,4 +1,4 @@
-c code`
+c code:::`
 #include <stdio.h>
 
 int main() {
